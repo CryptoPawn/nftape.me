@@ -325,6 +325,21 @@ export const collections = {
   AQHikQMJ12wx8GsdHVRV779E6ki6GTqvv2zYxCQv2r9b: {
     ME: 'sol_buds',
   },
+  2A4QFRwGQiX23rYqFJicaMRYRus3daJ4ayJu21ZZANrp: {
+    ME: 'furious_flowers',
+  },
+  3vpHxbq1QW9VW14UDC4zc5rBNK88Syhjf9WEnkSR2waE: {
+    ME: 'framesnft',
+  },
+  4SuPMMYUtgRRZoSxBN52nrEXMPf4Qx6VuDf5DDhZFHCD: {
+    ME: 'gnomiez',
+  },
+  BtMtHkDNRUj27LA5LrzvvU2UApx9bkVQm2hhSMNXjMUn: {
+    ME: 'guardians',
+  },
+  2Q7fQ5rfABeJWhbUg3pPStLkvj8XMEwepgKPN9scrtiw: {
+    ME: '3d_soltowers',
+  },
   // '': {
   //   SA: '',
   //   DE: '',
